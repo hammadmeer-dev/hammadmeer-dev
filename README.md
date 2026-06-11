@@ -130,9 +130,8 @@ const hammad = {
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammadmeer-dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" alt="Hammad's GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=hammadmeer-dev&theme=onedark&no-frame=true&row=1&column=6&margin-w=4" alt="Trophies" />
 </p>
 
 ---
