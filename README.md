@@ -145,8 +145,6 @@ const hammad = {
 
 </div>
 
-> ⚠️ **Note:** The snake animation requires a one-time GitHub Actions setup — see instructions below.
-
 ---
 
 ## 🎯 Current Focus
